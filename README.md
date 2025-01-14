@@ -4,6 +4,8 @@ This repository contains the complete source code for **HTML & CSS Template One*
 
 ![Opera Instantané_2025-01-14_120740_ayoubnsr github io111111111111](https://github.com/user-attachments/assets/6d5bf15f-581f-4125-bb0d-354848943d6f)
 
+You can check out the live version of the template here: [Special Template](https://ayoubnsr.github.io/HTML_and_CSS_template_1/)
+
 ## Project Overview
 I designed and developed this template from scratch to practice and improve my web development skills. The goal was to build a clean, well-structured template with modern design elements and smooth user interactions.
 
