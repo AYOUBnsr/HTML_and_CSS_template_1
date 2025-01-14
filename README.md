@@ -27,6 +27,10 @@ I designed and developed this template from scratch to practice and improve my w
 - **CSS3**: For styling and layout.
 - **Font Awesome**: For icons.
 
+![html](https://github.com/user-attachments/assets/5ae4de0f-7a27-4bd3-b570-e75ca72b9bfd) ![2](https://github.com/user-attachments/assets/7a16dcfe-1d75-4f18-97d4-612731ad5980)
+
+
+
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements, feel free to fork the repository and submit a pull request.
 
