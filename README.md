@@ -27,7 +27,7 @@ I designed and developed this template from scratch to practice and improve my w
 - **CSS3**: For styling and layout.
 - **Font Awesome**: For icons.
 
-![HTML](https://github.com/user-attachments/assets/cc291d37-0f04-4e50-9c0d-e51df3df63a4)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements, feel free to fork the repository and submit a pull request.
