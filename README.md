@@ -8,14 +8,14 @@ This repository contains the complete source code for **HTML & CSS Template One*
 I designed and developed this template from scratch to practice and improve my web development skills. The goal was to build a clean, well-structured template with modern design elements and smooth user interactions.
 
 ## Features
-👉- **Header**: Contains a logo and navigation links.
-👉- **Landing Section**: A hero section with a welcoming message.
-👉- **Features Section**: Highlights key features of the template.
-👉- **Services Section**: Describes available services.
-👉- **Portfolio Section**: Showcases project examples.
-👉- **About Section**: Provides information about the template creator.
-👉- **Contact Section**: Includes a contact form and footer.
-👉- **Smooth Scrolling**: Adds a polished user experience when navigating between sections.
+- 👉**Header**: Contains a logo and navigation links.
+- 👉**Landing Section**: A hero section with a welcoming message.
+- 👉**Features Section**: Highlights key features of the template.
+- 👉**Services Section**: Describes available services.
+- 👉**Portfolio Section**: Showcases project examples.
+- 👉**About Section**: Provides information about the template creator.
+- 👉**Contact Section**: Includes a contact form and footer.
+- 👉**Smooth Scrolling**: Adds a polished user experience when navigating between sections.
 
 ## How to Use the Template
 1. Clone or download the repository.
