@@ -2,7 +2,7 @@
 
 This repository contains the complete source code for **HTML & CSS Template One**, a responsive, modern web template created using HTML and CSS. The template includes essential sections such as a header, landing page, features, services, portfolio, about, and contact form, making it suitable for various types of personal and professional websites.
 
-![Opera Instantané_2025-01-14_120740_ayoubnsr github io111111111111](https://github.com/user-attachments/assets/77cb4736-07d0-49ef-8537-6dc48e2ff276)
+
 
 ## Project Overview
 I designed and developed this template from scratch to practice and improve my web development skills. The goal was to build a clean, well-structured template with modern design elements and smooth user interactions.
